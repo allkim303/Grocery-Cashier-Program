@@ -1,9 +1,7 @@
 /***********************************************
  * IPC144
  * Assignment 3
- * Minji Kim 
  * a3.c
- * 2013.08.02
  *
  * A signed declaration of honesty must be included your the assignment.
  * I declare that the attached assignment is wholly my
@@ -11,7 +9,6 @@
  * assignment has been copied manually or electronically from any
  * other source (including web sites) or distributed to other students.
  *
- * Name ___Minji Kim___     Student ID __067742122___
  *
  * This program processes information for store inventory and invoicing
  * When a cashier begins to scan products into their registers, this program 
