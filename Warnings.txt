@@ -1,0 +1,3 @@
+Warning: 11324232 has run out of stock
+Warning: 99483223 has run out of stock
+Error: 11324232 stock was in error, attempted to drop below zero
