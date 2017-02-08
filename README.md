@@ -1,5 +1,5 @@
 # Grocery-Cashier-Program
-•	Environment: C 
+•	Environment: C </br>
 •	Designed a cashier program that processed grocery information for store inventory and invoicing
 •	Read an input file and stored its information using pointers and arrays	
 •	Output the updated inventory for grocery to another file
